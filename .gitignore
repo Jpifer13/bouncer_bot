@@ -1,0 +1,5 @@
+# Any virtual environments
+venv*
+
+# Any powershell scripts
+**.ps1
